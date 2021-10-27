@@ -9,5 +9,5 @@
 - 🤔 I’m looking for internships
 - 💬 Ask me about anything, i'll definitely try to answer.
 - 📫 How to reach me: you can reach me at twitter [@avinash_prj](https://twitter.com/avinash_prj)
-- ⚡ Fun fact: #itWorksOnMyMachin🤭
+- ⚡ Fun fact: #itWorksOnMyMachine🤭
 
