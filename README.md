@@ -9,7 +9,7 @@ i have been learning code for 8 months now started with html, css and javascript
 *   🌍  I'm based in Mumbai
 *   🖥️  See my portfolio at [here](http://avinashprajapati.netlify.app)
 *   ✉️  You can contact me at [avinashprajapati914@gmail.com](mailto:avinashprajapati914@gmail.com)
-*   🚀  I'm currently working on [my component library in React](http://nucleus-ui.netlify.app/)
+*   🚀  I'm currently working on [Ecommerce store in React](http://nucleus-store.vercel.app/)
 *   🧠  I'm learning React
 *   🤝  I'm open to collaborating on interesting projects involving React
 ### Skills
