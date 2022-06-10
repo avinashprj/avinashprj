@@ -1,4 +1,4 @@
-Hi 👋 My name is Avinash Prajapati
+Hi 👋 I am Avinash Prajapati
 ==================================
 
 Web Developer
