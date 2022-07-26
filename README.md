@@ -7,7 +7,7 @@ Web Developer
 i have been learning code for 8 months now started with html, css and javascript and i aspire to become a front end engineer in the near future.
 
 *   🌍  I'm based in Mumbai
-*   🖥️  See my portfolio at [here](http://avinashprajapati.netlify.app)
+*   🖥️  See my portfolio at [here](http://avinashprajapati.me)
 *   ✉️  You can contact me at [avinashprajapati914@gmail.com](mailto:avinashprajapati914@gmail.com)
 *   🚀  I'm currently working on [Ecommerce store in React](http://nucleus-store.vercel.app/)
 *   🧠  I'm learning React
