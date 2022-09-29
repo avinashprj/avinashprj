@@ -1,10 +1,9 @@
 Hi 👋 I am Avinash Prajapati
 ==================================
 
-Web Developer
+frontEnd Developer
 -------------
 
-i have been learning code for 8 months now started with html, css and javascript and i aspire to become a front end engineer in the near future.
 
 *   🌍  I'm based in Mumbai
 *   🖥️  See my portfolio at [here](http://avinashprajapati.me)
