@@ -1,7 +1,7 @@
 Hi 👋 I am Avinash Prajapati
 ==================================
 
-frontEnd Developer
+FrontEnd Developer
 -------------
 
 
