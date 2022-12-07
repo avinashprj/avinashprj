@@ -1,14 +1,14 @@
 Hi 👋 I am Avinash Prajapati
 ==================================
 
-FrontEnd Developer
+Frontend Developer
 -------------
 
 
 *   🌍  I'm based in Mumbai
 *   🖥️  See my portfolio at [here](http://avinashprajapati.me)
 *   ✉️  You can contact me at [avinashprajapati914@gmail.com](mailto:avinashprajapati914@gmail.com)
-*   🚀  I'm currently working on [Ecommerce store in React](http://nucleus-store.vercel.app/)
+*   🚀  I'm currently working on [Social Media App in React](http://nucleus-book.vercel.app/)
 *   🧠  I'm learning React
 *   🤝  I'm open to collaborating on interesting projects involving React
 ### Skills
