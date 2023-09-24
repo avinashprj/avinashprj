@@ -1,7 +1,7 @@
 Hi 👋 I am Avinash Prajapati
 ==================================
 
-Frontend Developer
+Frontend Engineer
 -------------
 
 
@@ -9,7 +9,6 @@ Frontend Developer
 *   🖥️  See my portfolio at [here](http://avinash.codes)
 *   ✉️  You can contact me at [avinashprajapati914@gmail.com](mailto:avinashprajapati914@gmail.com)
 *   🚀  I'm currently working on [Social Media App in React](http://nucleus-book.vercel.app/)
-*   🧠  I'm learning React
 *   🤝  I'm open to collaborating on interesting projects involving React
 ### Skills
 <p align="left">
