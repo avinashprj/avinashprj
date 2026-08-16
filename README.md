@@ -6,7 +6,7 @@ Frontend Engineer
 
 
 *   🌍  I'm based in Mumbai
-*   🖥️  See my portfolio at [here](https://www.avinashcodes.tech/)
+*   🖥️  See my portfolio at [here](https://www.avinashprajapati.in/)
 *   ✉️  You can contact me at [avinashprajapati914@gmail.com](mailto:avinashprajapati914@gmail.com)
 *   🚀  I'm currently working on [Social Media App in React](http://nucleus-book.vercel.app/)
 *   🤝  I'm open to collaborating on interesting projects involving React
